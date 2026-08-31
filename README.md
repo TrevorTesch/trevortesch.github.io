@@ -1,5 +1,4 @@
-*Trevor's* Website
+## *Trevor's* Website
 
----
 
-<b>Useless almost, but... more to come!</b>
+My Website because everyone has one. I bored so I code it.
